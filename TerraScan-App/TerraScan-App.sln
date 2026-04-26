@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37203.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerraScan-App", "TerraScan-App.csproj", "{AAAE4F67-DDC6-45D5-888E-E2C21827BCF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAAE4F67-DDC6-45D5-888E-E2C21827BCF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAAE4F67-DDC6-45D5-888E-E2C21827BCF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAAE4F67-DDC6-45D5-888E-E2C21827BCF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAAE4F67-DDC6-45D5-888E-E2C21827BCF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {765A8155-0923-4483-ABC9-6C2A07620EAC}
+	EndGlobalSection
+EndGlobal
